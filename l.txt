@@ -1,0 +1,17 @@
+total 72
+-rw------- 1 struggling_potato struggling_potato   106 اکتوبر 30 20:19 aaa.txt
+-rw------- 1 struggling_potato struggling_potato    73 اکتوبر 30 20:22 abc.txt
+-rw------- 1 struggling_potato struggling_potato    93 اکتوبر 30 20:25 anb.txt
+-rwxrwxr-x 1 struggling_potato struggling_potato 17400 اکتوبر 30 20:27 a.out
+-rw-rw-r-- 1 struggling_potato struggling_potato  1042 اکتوبر 28 23:08 demo.c
+-rw-rw-r-- 1 struggling_potato struggling_potato  6522 اکتوبر 30 20:27 experi.c
+-rw------- 1 struggling_potato struggling_potato   100 اکتوبر 30 20:25 hh.txt
+-rw------- 1 struggling_potato struggling_potato     0 اکتوبر 30 20:27 l.txt
+-rw------- 1 struggling_potato struggling_potato     0 اکتوبر 30 19:32 o.txt
+-rw-rw-r-- 1 struggling_potato struggling_potato  1216 اکتوبر 30 17:11 pipe.c
+-rw-rw-r-- 1 struggling_potato struggling_potato  1886 اکتوبر 30 16:21 shark.c
+-rw-rw-r-- 1 struggling_potato struggling_potato  6437 اکتوبر 28 21:46 test.c
+-rw-rw-r-- 1 struggling_potato struggling_potato   173 اکتوبر 28 21:17 testt.c
+-rw-rw-r-- 1 struggling_potato struggling_potato     0 اکتوبر 30 18:01 t.txt
+-rw-rw-r-- 1 struggling_potato struggling_potato     0 اکتوبر 30 17:06 yo.c
+-rw------- 1 struggling_potato struggling_potato   106 اکتوبر 30 20:26 y.txt
